@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a Machine Learning Enigneer focused on vision and text representation learning.
+
 🔭 I’m currently working on [HyperTag](https://github.com/SeanPedersen/HyperTag) a knowledge management tool made for humans using tags and ML.
 <!--
 **SeanPedersen/SeanPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
