@@ -1,11 +1,8 @@
 ### Hi there 👋
 I am a Machine Learning Engineer experienced in vision and text representation learning, semantic search and data visualization.
 
-🚀 I'm the CEO of [Ravn Tech, Inc.](http://ravn.tech) a startup working on AI applications.
-
 🔭 I’m currently working on [HyperTag](https://github.com/SeanPedersen/HyperTag) a knowledge management tool made for humans using tags and ML.
 
-⚡ Check out my articles on [Variational Auto-Encoders](https://blog.neotree.uber.space/posts/vae) and [Sentiment Analyisis](https://blog.neotree.uber.space/posts/sentiment-analysis).
 <!--
 **SeanPedersen/SeanPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
