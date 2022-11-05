@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a Machine Learning Engineer experienced in vision and text representation learning, semantic search and data visualization.
+My world runs on C, Python, Erlang, Prolog in the web of HTML, JS/TS & CSS.
 
 🔭 I’m currently working on [HyperTag](https://github.com/SeanPedersen/HyperTag) a knowledge management tool made for humans using tags and ML.
 
