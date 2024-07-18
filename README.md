@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a Machine Learning Engineer experienced in vision and text representation learning, semantic search and data visualization.
 
+⚡ Sharing some of my thoughts on my [blog](https://seanpedersen.github.io/)
 🔭 I’m currently working on [HyperTag](https://github.com/SeanPedersen/HyperTag) a knowledge management tool made for humans using tags and ML.
 
 <!--
