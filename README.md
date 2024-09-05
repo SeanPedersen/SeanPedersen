@@ -3,7 +3,7 @@ I am a Machine Learning Engineer experienced in vision and text representation l
 
 ⚡ Sharing some of my thoughts on my [blog](https://seanpedersen.github.io/)
 
-🔭 I’m currently working on [HyperTag](https://github.com/SeanPedersen/HyperTag) a knowledge management tool made for humans using tags and ML.
+🔭 Some projects of mine: [VibeShuffle](https://github.com/SeanPedersen/VibeShuffle), [HyperTag](https://github.com/SeanPedersen/HyperTag)
 
 <!--
 **SeanPedersen/SeanPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
