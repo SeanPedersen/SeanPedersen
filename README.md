@@ -3,7 +3,10 @@ I am a Machine Learning Engineer experienced in vision and text representation l
 
 ⚡ Sharing some of my thoughts on my [blog](https://seanpedersen.github.io/)
 
-🔭 Some projects of mine: [VibeShuffle](https://github.com/SeanPedersen/VibeShuffle), [HyperTag](https://github.com/SeanPedersen/HyperTag)
+🔭 Some projects of mine:
+- [VibeShuffle](https://github.com/SeanPedersen/VibeShuffle): Smart music shuffle player (CLI)
+- [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
+- [HyperTag](https://github.com/SeanPedersen/HyperTag): Tag based file management + semantic search
 
 <!--
 **SeanPedersen/SeanPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
