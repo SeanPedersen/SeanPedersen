@@ -4,7 +4,7 @@ I am a Machine Learning Engineer experienced in vision and text representation l
 ⚡ Sharing some of my thoughts on my [blog](https://seanpedersen.github.io/)
 
 🔭 Some projects of mine:
-- [Digger](https://digger.lol): Visual search engine
+- [Digger](https://digger.lol): Visual exploration & search engine
 - [VibeShuffle](https://github.com/SeanPedersen/VibeShuffle): Smart music shuffle player (CLI)
 - [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
 - [HyperTag](https://github.com/SeanPedersen/HyperTag): Tag based file management + semantic search
