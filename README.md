@@ -5,6 +5,7 @@ I am a Machine Learning Engineer experienced in vision and text representation l
 
 🔭 Some projects of mine:
 - [Digger](https://digger.lol): Visual search & exploration engine
+- [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
 - [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
 - [HyperTag](https://github.com/SeanPedersen/HyperTag): Tag based file management + semantic search
 
