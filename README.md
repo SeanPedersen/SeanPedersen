@@ -9,3 +9,4 @@ I am a Machine Learning Engineer experienced in neural representation learning, 
 - [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
 - [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
 - [YouTube Transcription MCP](https://github.com/SeanPedersen/youtube-transcript-mcp): Useful to summarize YT videos using LLM
+- [ZEAL](https://github.com/SeanPedersen/zeal): smart & fast ZSH config
