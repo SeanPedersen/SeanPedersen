@@ -12,4 +12,5 @@ Some projects of mine:
 Open-Source:
 - [Marko](https://github.com/SeanPedersen/Marko): Tauri WYSIWYG Markdown Editor
 - [ZEAL](https://github.com/SeanPedersen/zeal): Smart & fast ZSH config
+- [TreeLinker](https://github.com/SeanPedersen/TreeLinker): Browser extension that visualizes and manages open tabs as a tree structure
 - [YouTube Transcription MCP](https://github.com/SeanPedersen/youtube-transcript-mcp): Useful to summarize YT videos using LLM
