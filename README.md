@@ -10,6 +10,7 @@ Some projects of mine:
 - [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
 
 Open-Source:
+- [FreeLLMAPI](https://github.com/SeanPedersen/freellmapi): Bandit router proxy that picks the best available free LLM model
 - [Marko](https://github.com/SeanPedersen/Marko): Tauri WYSIWYG Markdown Editor
 - [ZEAL](https://github.com/SeanPedersen/zeal): Smart & fast ZSH config
 - [TreeLinker](https://github.com/SeanPedersen/TreeLinker): Browser extension that visualizes and manages open tabs as a tree structure
