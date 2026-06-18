@@ -7,7 +7,6 @@ Some projects of mine:
 - [Digger Solo](https://digger.so/o): AI File Explorer (semantic search, maps & LLM RAG)
 - [Digger](https://digger.so): Privacy focused search engine with semantic maps
 - [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
-- [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
 
 Open-Source:
 - [FreeLLMAPI](https://github.com/SeanPedersen/freellmapi): Bandit router proxy that picks the best available free LLM model
