@@ -4,8 +4,8 @@ I am a Machine Learning Engineer experienced in neural representation learning, 
 ⚡ Sharing some of my thoughts on my [blog](https://seanpedersen.github.io/)
 
 Some projects of mine:
-- [Digger Solo](https://solo.digger.lol): AI powered File Explorer (semantic search + maps)
-- [Digger](https://digger.lol): Visual Search & Exploration Engine
+- [Digger Solo](https://digger.so/o): AI File Explorer (semantic search, maps & LLM RAG)
+- [Digger](https://digger.so): Privacy focused search engine with semantic maps
 - [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
 - [SpectroPi](https://spectropi.digger.lol/): Website to convert mp3 files to circular spectrograms
 
