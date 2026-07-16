@@ -9,6 +9,7 @@ Some projects of mine:
 - [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
 
 Open-Source:
+- [Skills collection](https://github.com/SeanPedersen/agent-skills): Useful skills for coding agents
 - [FreeLLMAPI](https://github.com/SeanPedersen/freellmapi): Bandit router proxy that picks the best available free LLM model
 - [Marko](https://github.com/SeanPedersen/Marko): Tauri WYSIWYG Markdown Editor
 - [ZEAL](https://github.com/SeanPedersen/zeal): Smart & fast ZSH config
