@@ -1,4 +1,3 @@
-### Hi there 👋
 I am a Machine Learning Engineer experienced in neural representation learning, semantic search and data visualization.
 
 ⚡ Sharing some of my thoughts on my [blog](https://seanpedersen.github.io/)
