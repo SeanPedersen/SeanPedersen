@@ -5,7 +5,7 @@ I am a Machine Learning Engineer experienced in neural representation learning, 
 Some projects of mine:
 - [Digger.so](https://digger.so): Privacy focused search and exploration engine
 - [Digger Solo](https://digger.so/o): AI File Explorer (semantic search, maps & LLM RAG)
-- [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
+- [TieredQ](https://github.com/SeanPedersen/TieredQ): New Vector Quantization algorithm (Variance-Aware Bit Allocation) - [blog post](https://seanpedersen.github.io/posts/tieredq/)
 
 Open-Source:
 - [KMSD](https://github.com/SeanPedersen/keep-my-social-data): Archive your favorite content from X, Hacker News, Reddit, and GitHub
@@ -15,3 +15,5 @@ Open-Source:
 - [ZEAL](https://github.com/SeanPedersen/zeal): Smart & fast ZSH config
 - [TreeLinker](https://github.com/SeanPedersen/TreeLinker): Browser extension that visualizes and manages open tabs as a tree structure
 - [YouTube Transcription MCP](https://github.com/SeanPedersen/youtube-transcript-mcp): Useful to summarize YT videos using LLM
+- [Sparse Distributed Representations](https://github.com/SeanPedersen/SparseDistributedRepresentations): SDR implemented using Self-Organizing Map with CLIP embeddings for CIFAR-10 images
+
