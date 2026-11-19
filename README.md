@@ -6,6 +6,7 @@ Some projects of mine:
 - [Digger.so](https://digger.so): Privacy focused search and exploration engine
 - [Digger Solo](https://digger.so/o): AI File Explorer (semantic search, maps & LLM RAG)
 - [TieredQ](https://github.com/SeanPedersen/TieredQ): New Vector Quantization algorithm (Variance-Aware Bit Allocation) - [blog post](https://seanpedersen.github.io/posts/tieredq/)
+- [NCVis+](https://github.com/SeanPedersen/ncvis-plus): New Dimensionality Reduction algorithm (extension of NCVis)
 
 Open-Source:
 - [KMSD](https://github.com/SeanPedersen/keep-my-social-data): Archive your favorite content from X, Hacker News, Reddit, and GitHub
