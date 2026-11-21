@@ -5,6 +5,7 @@ I am a Machine Learning Engineer experienced in neural representation learning, 
 Some projects of mine:
 - [Digger.so](https://digger.so): Privacy focused search and exploration engine
 - [Digger Solo](https://digger.so/o): AI File Explorer (semantic search, maps & LLM RAG)
+- [Brumm](https://github.com/SeanPedersen/brumm): Decentral (P2P) E2EE secured messenger
 - [TieredQ](https://github.com/SeanPedersen/TieredQ): New Vector Quantization algorithm (Variance-Aware Bit Allocation) - [blog post](https://seanpedersen.github.io/posts/tieredq/)
 - [NCVis+](https://github.com/SeanPedersen/ncvis-plus): New Dimensionality Reduction algorithm (extension of NCVis)
 
